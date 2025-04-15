@@ -9,8 +9,7 @@ body{
     font-family: "inter", "sans-serif";
 }
 .mainbox{
-    max-width: 350px;
-    height: 100%;
+    max-width: 400px;
     background-color: hsl(0,0% ,12%);
     padding-bottom: 32px;
     padding-top: 32px;
@@ -37,10 +36,11 @@ body{
 .description{
     font-weight: 400px;
     font-size: 0.875rem;
+    margin-bottom: 16px;
 }
 .box{
     font-weight: 600;
-    width: 270px;
+    width: 300px;
     height: 40px;
     margin: 8px;
     text-align: center;
