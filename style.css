@@ -12,7 +12,8 @@ body{
     width: 350px;
     height: 100%;
     background-color: hsl(0,0% ,12%);
-    padding: 24px;
+    padding-bottom: 32px;
+    padding-top: 32px;
     border-radius: 10px;
     display:flex;
     justify-content: center;
