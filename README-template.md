@@ -14,6 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -64,3 +65,7 @@ I want to focus mainly more on accessibility, but also finding different ways to
 
 - Frontend Mentor - [@peepytoo](https://www.frontendmentor.io/profile/Peepytoo)
 - Instagram - [@peepytoo](https://www.instagram.com/peepytoo/)
+
+## Acknowledgements
+
+- Feedback from this person - [Chamu](https://www.frontendmentor.io/profile/ChamuMutezva)
