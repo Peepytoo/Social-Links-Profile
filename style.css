@@ -50,11 +50,16 @@ body{
     align-items: center;
     border-radius: 7px;
     font-size: 0.875rem;
+    color: white;
+    text-decoration: none;
 }
 .box:hover{
     background-color: hsl(75, 94%, 57%);
     cursor: pointer;
     color:hsl(0, 0%, 8%);
+}
+.box:visited{
+    color: white;
 }
 .attribution{
     position: absolute;
