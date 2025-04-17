@@ -1,12 +1,17 @@
 body{
     display:flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
     min-height: 100vh;
     background-color: hsl(0, 0%, 8%);
     color: white;
     font-family: "inter", "sans-serif";
+    margin: 0;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
 }
 .mainbox{
     max-width: 400px;
@@ -63,8 +68,7 @@ img{
     color:hsl(0, 0%, 8%);
 }
 .attribution{
-    position: relative;
-    top: 12vh
+    margin: 0 auto;
 }
 
 /*modern reset stylesheet*/
